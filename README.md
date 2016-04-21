@@ -1,2 +1,2 @@
 # lazarus
-by Felix, William and Patrick
+by Felix, William and Patrick Conrad
