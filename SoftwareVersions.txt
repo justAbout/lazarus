@@ -1,0 +1,4 @@
+- Microsoft Visual Studio Community 2015 Version 14.0.24720.00 Update 1
+- XNA Framework 4.0 Redistribution
+- XNA Framework 4.0 Platform Tools
+- XNA Framework Game Studio 4.0 Shared
