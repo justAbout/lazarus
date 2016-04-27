@@ -1,0 +1,44 @@
+Sprint Planing Meeting vom 27.04.2016
+
+Teilnehmer:
+- F. L.
+- W. F.
+
+Themen:
+- Klassengestaltung
+	-> 1) SpriteClass/Animationsklasse
+	-> 2) InputController/Tasteneingabe User/User Interaktionen
+	-> 3) Klassendefinition/Benötigte Klassen/Ideen
+
+1) SpriteClass/Animationsklasse:
+- Anzahl der Frames für Animationen festlegen? 
+- Welche abgeleiteten Klassen werden benötigt?
+
+3) Klassendefinition/Benötigte Klassen/Ideen
+Ziele:
+- Basisklassen definieren und implementieren
+- Klassendiagramm anfertigen, Programmablaufplan?
+
+Ideen:
+- Kamera Klasse, die den Spieler verfolgt
+- Gesundheitsklasse
+- Spielerklasse
+- Objektklasse
+- Kollisionsklasse
+- Menühandler/Screenhandler
+- GameStateHandler / Wann was geupdatet wird usw.
+
+- Spriteklasse
+ 	- Zusammen besprechen
+
+- Spielerklasse : Spriteklasse
+	- Spieler hat Kamera
+	- Sprite Klasse	
+
+- Kameraklasse
+	- William
+
+- Objektklasse : Spriteklasse
+
+- static Kollisionsklasse
+	- Test
